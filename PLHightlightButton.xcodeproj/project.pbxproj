@@ -12,6 +12,7 @@
 		209F1B9C1F1D0A3E005085C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 209F1B9A1F1D0A3E005085C9 /* Main.storyboard */; };
 		209F1B9E1F1D0A3E005085C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 209F1B9D1F1D0A3E005085C9 /* Assets.xcassets */; };
 		209F1BA11F1D0A3E005085C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 209F1B9F1F1D0A3E005085C9 /* LaunchScreen.storyboard */; };
+		209F1BA91F1D0A78005085C9 /* PLHighlightButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209F1BA81F1D0A78005085C9 /* PLHighlightButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		209F1B9D1F1D0A3E005085C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		209F1BA01F1D0A3E005085C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		209F1BA21F1D0A3E005085C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		209F1BA81F1D0A78005085C9 /* PLHighlightButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PLHighlightButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				209F1B961F1D0A3E005085C9 /* AppDelegate.swift */,
 				209F1B981F1D0A3E005085C9 /* ViewController.swift */,
+				209F1BA81F1D0A78005085C9 /* PLHighlightButton.swift */,
 				209F1B9A1F1D0A3E005085C9 /* Main.storyboard */,
 				209F1B9D1F1D0A3E005085C9 /* Assets.xcassets */,
 				209F1B9F1F1D0A3E005085C9 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				209F1B991F1D0A3E005085C9 /* ViewController.swift in Sources */,
 				209F1B971F1D0A3E005085C9 /* AppDelegate.swift in Sources */,
+				209F1BA91F1D0A78005085C9 /* PLHighlightButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
